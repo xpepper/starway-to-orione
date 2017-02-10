@@ -112,6 +112,7 @@ Please feel free to fork and contribute, add materials, fix the existing ones an
 * [Operations](study-path/operations)
 
 ### Contributors
+
 * All XPeppers team members ([@xpeppers](https://twitter.com/xpeppers)), featuring:
   * Pietro Di Bello [@pierodibello](http://twitter.com/pierodibello)
   * Filippo Liverani [@filippo-liverani](https://github.com/filippo-liverani)
